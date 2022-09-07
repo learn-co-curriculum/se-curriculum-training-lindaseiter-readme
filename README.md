@@ -7,7 +7,7 @@
 
 ## Introduction
 
-A 1-2 sentence summary of what will be covered.  Keep it brief but descriptive.
+A 1-2 sentence summary of what will be covered.  Keep it brief but descriptive.  Testing commit from vs code.
 
 ## Topic 1
 
