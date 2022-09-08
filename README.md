@@ -7,13 +7,16 @@
 
 ## Introduction
 
-A 1-2 sentence summary of what will be covered.  Keep it brief but descriptive.  Testing commit from vs code.
+A 1-2 sentence summary of what will be covered. Keep it brief but descriptive.
+Testing commit from vs code.
 
 ## Topic 1
 
 Discuss the topic of the reading. Break into sections and sub-sections as
 appropriate to help with the reader's orientation with the material and future
 referencing.
+
+![Arrow left keyboard event](https://curriculum-content.s3.amazonaws.com/learn-co-curriculum/se-curriculum-training-lindaseiter-readme/keyboard-event.png)
 
 ## Topic 2
 
