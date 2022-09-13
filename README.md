@@ -11,7 +11,7 @@ A 1-2 sentence summary of what will be covered. Keep it brief but descriptive.
 Testing commit from vs code.  
 Testing commit from intellij..
 
-Testing branch.
+Testing branch.  Testing after pull into main branch in IntelliJ.
 
 ## Topic 1
 
